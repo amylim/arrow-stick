@@ -1,7 +1,7 @@
 Date Completed: Oct 2010
 Language: C++  
 Development Environment: Dev C++   	
-Important features: Contains 2D graphics display (using PDCurses.lib);
+Important features: Contains 2D graphic display (using PDCurses.lib);
                     pointers, function pointers
 
 Simulation and graphical display (in the console) of an arrow stick for 
