@@ -1,0 +1,15 @@
+Date Completed: Oct 2010
+Language: C++  
+Development Environment: Dev C++   	
+Important features: Contains 2D graphics display (using PDCurses.lib);
+                    pointers, function pointers
+
+Simulation and graphical display (in the console) of an arrow stick for 
+traffic advisers. 
+
+Allows the user to choose the amount of amber lights (8-12).
+
+Available patterns:
+  - alternate the ends of the light bar
+  - move left to right or right to left
+  - move from the center and then outwards
